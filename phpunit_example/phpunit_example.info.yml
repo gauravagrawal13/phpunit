@@ -1,0 +1,5 @@
+name: 'phpunit_example'
+type: module
+description: 'My first PHPUnit test'
+core: 8.x
+package: 'Custom'
